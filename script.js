@@ -16,4 +16,4 @@ nextBtn.addEventListener("click", () => {
 backBtn.addEventListener("click", () => {
     scrollContainer.style.scrollBehavior = "smooth";
     scrollContainer.scrollLeft -= 900;
-})
+}) 
